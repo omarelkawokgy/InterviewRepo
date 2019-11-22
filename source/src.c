@@ -5,8 +5,11 @@ first source file
 
 void main()
 {
-int x;
-printf("%d", x);
+int x = 10;
+int y = 15;
+int z;  
+z = addFunction(x, y);
+printf("%d", z);
 }
 
 int addFunction(int x, int y)
