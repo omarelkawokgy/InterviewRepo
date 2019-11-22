@@ -1,7 +1,7 @@
 /*
 first source file
 */
-#include "header.h"
+#include "..\include\header.h"
 
 void main()
 {
